@@ -39,5 +39,3 @@ public class prog2 {
         return num;
     }
 }
-
-
