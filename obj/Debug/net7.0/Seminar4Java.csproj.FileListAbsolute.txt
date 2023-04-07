@@ -1,0 +1,5 @@
+E:\Java\Seminar4Java\Seminar4Java\obj\Debug\net7.0\Seminar4Java.csproj.AssemblyReference.cache
+E:\Java\Seminar4Java\Seminar4Java\obj\Debug\net7.0\Seminar4Java.GeneratedMSBuildEditorConfig.editorconfig
+E:\Java\Seminar4Java\Seminar4Java\obj\Debug\net7.0\Seminar4Java.AssemblyInfoInputs.cache
+E:\Java\Seminar4Java\Seminar4Java\obj\Debug\net7.0\Seminar4Java.AssemblyInfo.cs
+E:\Java\Seminar4Java\Seminar4Java\obj\Debug\net7.0\Seminar4Java.csproj.CoreCompileInputs.cache
